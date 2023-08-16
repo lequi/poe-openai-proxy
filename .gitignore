@@ -7,3 +7,4 @@ start-poe-openai-proxy.bat
 external/__pycache__
 /poe-openai-proxy
 ssl
+/vendor
